@@ -238,4 +238,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/bdd4490b-2a75-4622-8d0c-9b5193a6448d)
 
 # Result:
- Include your result here
+ Thus the program to Perform Data Visualization using matplot python library for the given datas is been implemented.
